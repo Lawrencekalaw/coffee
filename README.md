@@ -1,1 +1,1 @@
-An amzing login page for your coffee cafe.
+An amazing Home and Login page for your coffee cafe.
